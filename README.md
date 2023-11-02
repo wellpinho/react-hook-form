@@ -3,8 +3,17 @@
 simple app with React Hook Forms
 
 ![01](assets/1.png)
+
+### Validação de inputs
+
 ![02](assets/2.png)
+
+### Validação de email
+
 ![03](assets/3.png)
+
+### Validação de senha
+
 ![04](assets/4.png)
 
 ## Créditos
